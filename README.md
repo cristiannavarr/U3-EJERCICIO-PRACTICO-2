@@ -78,9 +78,9 @@ Características que se tuvieron en cuenta:
 
 En consolo se mostrará el menú del juego:
 
-==================================================
+
           SISTEMA DE BATALLAS POKÉMON
-==================================================
+
 1. Ver lista de Pokémon
 2. Ver detalles de un Pokémon
 3. Agregar Pokémon
