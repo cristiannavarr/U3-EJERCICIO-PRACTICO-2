@@ -60,7 +60,7 @@ Efectividad (casos donde el ataque se duplica o reduce dependiendo de los tipos)
 
     Normal (1x daño):
 
-        * Todos los demás casos
+        * Todos los demás casos (la defensa del pokémon que recibe el ataque también afecta el valor final del daño)        
 
 Características que se tuvieron en cuenta:
 
